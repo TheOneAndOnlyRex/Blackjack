@@ -2,7 +2,7 @@ import random
 #the cards
 suits = ["Spades", "Clubs", "Hearts", "Diamonds"]
 cards = ["2", "3", "4", "5", "6", "7", "8", "9", "Jack", "Queen", "King", "Ace"]
-money = 200
+money = 250
 game = True
 card_values = {
     "2" : 2,
